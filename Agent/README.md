@@ -33,7 +33,3 @@ This repository contains my personal project about building a Voice AI Agent. Th
 
 ## Notes
 - All materials are for educational purposes.
-
-## License
-
-This project is for personal study and educational use. Please respect the terms of use of DeepLearning.AI and do not distribute proprietary course content.
