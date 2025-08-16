@@ -4,12 +4,12 @@ This repository contains my personal project about building a Voice AI Agent. Th
 
 ## Folder Structure
 
-- `L4/` - Materials for Lesson 4
-  - `Lesson4.ipynb` - Jupyter notebook for Lesson 4
-  - `requirements.txt` - Python dependencies for Lesson 4
-- `L5/` - Materials for Lesson 5
-  - `Lesson5.ipynb` - Jupyter notebook for Lesson 5
-  - `requirements.txt` - Python dependencies for Lesson 5
+- `Case1/` - Materials for Case 1
+  - `Lesson4.ipynb` - Jupyter notebook for Case 1
+  - `requirements.txt` - Python dependencies for Case 1
+- `Case2/` - Materials for Case 2
+  - `Lesson5.ipynb` - Jupyter notebook for Case 2
+  - `requirements.txt` - Python dependencies for Case 2
 
 ## Usage
 
