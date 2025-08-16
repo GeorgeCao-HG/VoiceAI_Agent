@@ -1,0 +1,39 @@
+# Voice AI Agent Project
+
+This repository contains my personal project about building a Voice AI Agent. The content is organized by two casestudies and includes Jupyter notebooks and requirements files related to the development and study of Voice AI technologies.
+
+## Folder Structure
+
+- `L4/` - Materials for Lesson 4
+  - `Lesson4.ipynb` - Jupyter notebook for Lesson 4
+  - `requirements.txt` - Python dependencies for Lesson 4
+- `L5/` - Materials for Lesson 5
+  - `Lesson5.ipynb` - Jupyter notebook for Lesson 5
+  - `requirements.txt` - Python dependencies for Lesson 5
+
+## Usage
+
+1. Clone this repository:
+   ```sh
+   git clone <your-repo-url>
+   ```
+2. Navigate to the desired lesson folder (e.g., `Case1` or `Case2`).
+3. Install the required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Open the Jupyter notebook with:
+   ```sh
+   jupyter notebook Case1.ipynb
+   ```
+   or
+   ```sh
+   jupyter notebook Case2.ipynb
+   ```
+
+## Notes
+- All materials are for educational purposes.
+
+## License
+
+This project is for personal study and educational use. Please respect the terms of use of DeepLearning.AI and do not distribute proprietary course content.
